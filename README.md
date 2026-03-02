@@ -3,6 +3,8 @@
 # IndicTrans2: English to Odia Fine-tuning
 ### Robust Translation Pipeline with Native Script Enforcement
 
+
+## This project's Readme.md will be updated accordingly as the project progresses.
 <br>
 </div>
 
@@ -98,7 +100,7 @@ The baseline evaluation runs automatically on an isolated 300-row validation sub
 
 ---
 
-## This project's Readme.md will be updated accordingly as the project progresses.
+
 
 <div align="center">
   <br>
